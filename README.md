@@ -3,9 +3,9 @@
 
 <!-- Here are some ideas to get you started: -->
 <h1 align="center">Hi 👋, My Name is Harshit Grover</h1>
-- 🔭 I’m currently a Final Year UnderGraduate Student at BML Munjal University.<br>
-- 🌱 I’m currently learning Backend Development.<br>
-- 🤔 I’m looking for Internship and Full Time Roles.<br>
+- 🔭 I’m currently Working as a Software Enginner at Yubi.<br>
+- 🌱 Primarily Backend Developer<br>
+- 🤔 I’m open for Full Time Role switch.<br>
 - ⚡ Fun fact- I Know Coding :)<br>
 
 
